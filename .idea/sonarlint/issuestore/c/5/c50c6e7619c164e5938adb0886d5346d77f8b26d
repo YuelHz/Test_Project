@@ -1,0 +1,11 @@
+
+6
+java:S2129" Remove this "String" constructor(£ÙÎå
+6
+java:S2129" Remove this "String" constructor(£ÙÎå
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(‹›æ¢8„ŞÂçÿ/
+]	java:S125"<This block of commented-out lines of code should be removed.(«­´Îüÿÿÿÿ8ÃµÑæÿ/
+Y
+java:S4973
+"<Strings and Boxed types should be compared using "equals()".(‹›æ¢8Ì„Ãçÿ/
