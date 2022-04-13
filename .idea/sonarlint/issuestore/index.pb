@@ -9,7 +9,7 @@ $src/main/java/testclass/Teacher.java,1\1\1148244eff099c159b19491f2abc9e0feafc5
 ali-pay/HELP.md,2\4\24ae564420be84ce2cf27c1260b4829239e741de
 U
 %src/main/java/config/ShiroConfig.java,c\2\c2c04d03d0da9b3ca6e720e540f54a001546b61a
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-P
- src/main/java/test/TestMain.java,c\5\c50c6e7619c164e5938adb0886d5346d77f8b26d
+t
+Dali-pay/src/main/java/com/yuel/alipay/controller/TestController.java,a\f\af1f9a92ac9133f76d620b0e8068b8f897b0a843
+l
+<ali-pay/src/main/java/com/yuel/alipay/AliPayApplication.java,1\b\1b4dd81df14c22041075275e6220f622c29cf7c9
